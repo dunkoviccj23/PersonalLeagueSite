@@ -37,7 +37,7 @@ header {
 h1 {
     padding-top: 50px;
     padding-left: 2em;
-    font-size: 32pt;
+    font-size: 28pt;
     font-family: Castellar, serif;
 }
 
@@ -144,6 +144,9 @@ select {
 
 button[type="submit"] {
     margin-top: 26px;
+    padding: 10px;
+    border-style: outset;
+    border-width: 3px;
 }
 
 form {
@@ -156,8 +159,10 @@ form {
 }
 
 video, embed {
-    padding-left: 50px;
     float: right;
+    outline: none;
+    height: auto;
+    width: available;
 }
 
 @media only screen and (max-width: 64em) {
@@ -206,6 +211,8 @@ video, embed {
 
     video, embed {
         float: left;
+        outline: none;
+        height: auto;
     }
 
 }
@@ -254,6 +261,8 @@ video, embed {
 
     video, embed {
         float: left;
+        outline: none;
+        height: auto;
     }
 
     input[type="submit"] {
