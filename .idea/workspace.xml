@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="181a5beb-f809-4b54-8c3e-2e9dfcfcc16e" name="Default Changelist" comment="" />
+    <list default="true" id="181a5beb-f809-4b54-8c3e-2e9dfcfcc16e" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/gbstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/gbstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +49,37 @@
       <workItem from="1601520434906" duration="1358000" />
       <workItem from="1601585099362" duration="7874000" />
       <workItem from="1601603561602" duration="185000" />
-      <workItem from="1601614517274" duration="1985000" />
+      <workItem from="1601614517274" duration="2771000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1601616598615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601616598615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1601615733081">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="771" y="295" key="FileChooserDialogImpl/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601615733081" />
+    <state x="864" y="438" key="Github.ShareDialog" timestamp="1601616815926">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="864" y="438" key="Github.ShareDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601616815926" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601616676632">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601616676632" />
   </component>
 </project>
