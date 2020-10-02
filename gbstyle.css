@@ -1,0 +1,262 @@
+header, main, footer, figure, figcaption, aside, section, article {
+    display: block
+}
+
+* {
+    box-sizing: border-box
+}
+
+body {
+    background-color: black;
+    font-family: "Times New Roman", Arial, sans-serif;
+    color: black;
+}
+
+#wrapper {
+    width: 70%;
+    background-color: black;
+    min-width: 960px;
+    max-width: 2048px;
+    color: whitesmoke;
+    box-shadow: 3px 3px 3px chocolate;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: black;
+    color: darkorange;
+    background-image: url("Ezreal.gif");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 200px;
+    padding-left: 6em;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-left: 2em;
+    font-size: 32pt;
+    font-family: Castellar, serif;
+}
+
+p {
+    padding-left: 2em;
+    padding-right: 2em;
+    font-size: 16pt;
+}
+
+a {
+    color: darkorchid;
+}
+
+nav {
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    width: 180px;
+    padding: 1em;
+    font-size: large;
+}
+
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bold;
+    border-color: #CCCCCC;
+    border-width: 3px;
+    padding: 1em;
+    margin-bottom: 1em;
+
+}
+
+h2 {
+    padding-left: 1em;
+    padding-right: 2em;
+    font-size: 24pt;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 1.2em;
+}
+
+nav a:link {
+    color: whitesmoke;
+}
+
+nav a:visited {
+    color: darkcyan;
+}
+
+nav a:hover {
+    color: chocolate;
+    border-style: inset;
+    border-color: chocolate;
+    border-width: 3px;
+    transition: opacity 1.5s ease-out;
+}
+
+main {
+    padding-top: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    display: block;
+    background-color: black;
+    color: whitesmoke;
+    margin-left: 180px;
+    border-style: groove;
+    border-width: 5px;
+}
+
+li {
+    font-size: 16pt;
+}
+
+label {
+    float: left;
+    display: block;
+    text-align: right;
+    width: 10em;
+    font-size: 14pt;
+    padding-right: 1em;
+}
+
+input {
+    display: block;
+    margin-bottom: 1em;
+}
+
+textarea {
+    display: block;
+    margin-bottom: 2em;
+}
+
+select {
+    display: block;
+    margin-bottom: 2em;
+}
+
+button[type="submit"] {
+    margin-left: 150px
+}
+
+form {
+    padding: 3em;
+    font-size: 14pt;
+}
+
+.container {
+    margin-left: 2em;
+}
+
+video, embed {
+    padding-left: 50px;
+    float: right;
+}
+
+@media only screen and (max-width: 64em) {
+
+    body {
+        margin: 0;
+        background-color: black;
+    }
+
+    #wrapper {
+        min-width: 0;
+        width: auto;
+        box-shadow: none;
+        border: none;
+    }
+
+    header {
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-left: 0;
+        height: auto;
+    }
+
+    h1 {
+        letter-spacing: 0.1em;
+    }
+
+    main {
+        margin-left: 0;
+    }
+
+    nav {
+        float: none;
+        width: auto;
+        text-align: center;
+        padding: 0.5em;
+    }
+
+    nav a {
+        margin: 0;
+    }
+
+    nav li {
+        display: inline;
+    }
+
+    video, embed {
+        float: left;
+    }
+
+}
+
+@media only screen and (max-width: 37.5em) {
+
+    main {
+        padding-top: 0.1em;
+        padding-bottom: 0.1em;
+        padding-left: 1em;
+        padding-right: 1em;
+        font-size: 90%;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    nav {
+        padding: 0;
+    }
+
+    nav li {
+        display: block;
+        margin: 0;
+        border: 2px solid black;
+    }
+
+    nav a {
+        display: block;
+        margin: 0;
+    }
+
+    #mobile {
+        display: inline;
+    }
+
+    #desktop {
+        display: none;
+    }
+
+    label {
+        float: none;
+        text-align: left;
+    }
+
+    video, embed {
+        float: left;
+    }
+
+    input[type="submit"] {
+        margin-left: 0;
+    }
+}
