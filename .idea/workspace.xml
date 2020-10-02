@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="181a5beb-f809-4b54-8c3e-2e9dfcfcc16e" name="Default Changelist" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/gbstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/gbstyle.css" afterDir="false" />
+    <list default="true" id="181a5beb-f809-4b54-8c3e-2e9dfcfcc16e" name="Default Changelist" comment="3rd commit">
+      <change afterPath="$PROJECT_DIR$/favicon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/coaching.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,16 +25,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iCHCvEB8xdeN3qx7SvHXLcZKCF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Path of Light Yoga Ch11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pacific Trails Resort Ch11" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,7 +55,7 @@
       <workItem from="1601520434906" duration="1358000" />
       <workItem from="1601585099362" duration="7874000" />
       <workItem from="1601603561602" duration="185000" />
-      <workItem from="1601614517274" duration="2771000" />
+      <workItem from="1601614517274" duration="5121000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601616598615</created>
@@ -58,28 +64,45 @@
       <option name="project" value="LOCAL" />
       <updated>1601616598615</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd commit">
+      <created>1601617398078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601617398078</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3rd commit">
+      <created>1601619135661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601619135661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1601615733081">
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1601618753354">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="771" y="295" key="FileChooserDialogImpl/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601615733081" />
+    <state x="771" y="295" key="FileChooserDialogImpl/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601618753354" />
     <state x="864" y="438" key="Github.ShareDialog" timestamp="1601616815926">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="864" y="438" key="Github.ShareDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601616815926" />
-    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601616676632">
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601619152564">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="273" key="Vcs.Push.Dialog.v2/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601616676632" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601619152564" />
   </component>
 </project>
