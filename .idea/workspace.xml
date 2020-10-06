@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="181a5beb-f809-4b54-8c3e-2e9dfcfcc16e" name="Default Changelist" comment="3rd commit">
-      <change afterPath="$PROJECT_DIR$/favicon.jpg" afterDir="false" />
+    <list default="true" id="181a5beb-f809-4b54-8c3e-2e9dfcfcc16e" name="Default Changelist" comment="4th commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GB Logo black.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/GB Logo black.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GB Logo.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ivern.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Ivern.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thresh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Thresh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vayne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Vayne.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zed.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Zed.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coaching.html" beforeDir="false" afterPath="$PROJECT_DIR$/coaching.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
     </list>
@@ -55,7 +80,8 @@
       <workItem from="1601520434906" duration="1358000" />
       <workItem from="1601585099362" duration="7874000" />
       <workItem from="1601603561602" duration="185000" />
-      <workItem from="1601614517274" duration="5121000" />
+      <workItem from="1601614517274" duration="6104000" />
+      <workItem from="1601943921372" duration="2718000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601616598615</created>
@@ -78,18 +104,37 @@
       <option name="project" value="LOCAL" />
       <updated>1601619135661</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4th commit">
+      <created>1601619752068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601619752068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
+    <MESSAGE value="4th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1601618753354">
@@ -100,9 +145,9 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="864" y="438" key="Github.ShareDialog/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601616815926" />
-    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601619152564">
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2" timestamp="1601619761598">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="583" y="273" key="Vcs.Push.Dialog.v2/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601619152564" />
+    <state x="583" y="273" key="Vcs.Push.Dialog.v2/-1858.0.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1601619761598" />
   </component>
 </project>
